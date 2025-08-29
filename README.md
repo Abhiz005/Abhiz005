@@ -4,11 +4,15 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<hr>
 
-
+<!-- 🔥 Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=600&color=00F0FF&center=true&vCenter=true&width=700&lines=UI/UX+Engineer+⚡;AI+Explorer+🤖;Building+Luxury+Neon+Web+Experiences+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=600&color=00F0FF&center=true&vCenter=true&width=800&lines=⚡+UI/UX+Engineer;🤖+AI+Explorer;✨+Luxury+Neon+Web+Experiences;🚀+Building+the+Future+with+Code" />
+</p>
+
+<!-- ✨ Glitch Effect Banner -->
+<p align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/7ZyGx/eyJyIjoiZnMiLCJoIjo4MywidyI6MTAwMCwiZnMiOjgzLCJmZ2MiOiIjRkZEMDAwIiwiYmdjIjoiI0ZGMDAwMCIsInQiOjF9/R1RIdWI=/glitch-goblin.png" alt="Glitch Title" width="60%" />
 </p>
 
 ---
@@ -27,29 +31,28 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,python,nodejs,figma&perline=9" />
 </p>
 
----
-
-## 🚀 Highlighted Projects  
-
 <p align="center">
-  <a href="https://github.com/yourusername/NeonDash">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=NeonDash&theme=radical&border_radius=12&hide_border=true" />
-  </a>
-  <a href="https://github.com/yourusername/Cyberfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Cyberfolio&theme=radical&border_radius=12&hide_border=true" />
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
 </p>
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics  
 
 <p align="center">
 <a href="https://github.com/Abhiz005">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiz005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiz005&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiz005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiz005&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&hide_border=true"/>
 </a>
 </p>
+
+<!-- 🌀 Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiz005&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
 ## 🎧 Now Playing  
 
 <p align="center">
@@ -77,10 +80,8 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Abhiz005/Abhiz005/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
-
----
 
 <!-- 🌊 Footer -->
 <p align="center">
