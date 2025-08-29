@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/yourusername/NeonDash">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=NeonDash&theme=radical&border_radius=12&hide_border=true" />
+    <img src="https://abhiz1.netlify.app/&repo=NeonDash&theme=radical&border_radius=12&hide_border=true" />
   </a>
   <a href="https://github.com/yourusername/Cyberfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Cyberfolio&theme=radical&border_radius=12&hide_border=true" />
