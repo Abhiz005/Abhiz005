@@ -7,15 +7,9 @@
 
 <!-- 🔥 Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=600&color=00F0FF&center=true&vCenter=true&width=800&lines=⚡+UI/UX+Engineer;🤖+AI+Explorer;✨+Luxury+Neon+Web+Experiences;🚀+Building+the+Future+with+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=600&color=00F0FF&center=true&vCenter=true&width=800&lines=⚡+Web Developer;🤖+AI/ML;✨+Network Engineer;🚀+Building+the+Future+with+Code" />
 </p>
 
-<!-- ✨ Glitch Effect Banner -->
-<p align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/7ZyGx/eyJyIjoiZnMiLCJoIjo4MywidyI6MTAwMCwiZnMiOjgzLCJmZ2MiOiIjRkZEMDAwIiwiYmdjIjoiI0ZGMDAwMCIsInQiOjF9/R1RIdWI=/glitch-goblin.png" alt="Glitch Title" width="60%" />
-</p>
-
----
 
 ## 🧬 About Me  
 
