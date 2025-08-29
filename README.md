@@ -1,74 +1,79 @@
-<!-- 🌌 Luxury Cyberpunk GitHub Profile -->
+<!-- 🚀 Futuristic Pro Developer GitHub Profile -->
 
-<!-- ⚡ Neon Gradient Header -->
+<!-- 🎯 Hero Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Welcome+to+My+Neon+Realm&fontSize=38&fontAlign=50&fontColor=ffffff&color=0:ff00ff,100:00ffee&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8e2de2,100:4a00e0&text=Hi%20I'm%20YourName%20👨‍🚀&fontColor=ffffff&fontSize=36&fontAlign=50&animation=twinkling" />
 </p>
 
-<!-- 👾 Futuristic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3500&pause=700&color=FFD700&center=true&vCenter=true&width=850&lines=👨‍🚀+Cybernetic+UI/UX+Engineer;🚀+AI+Explorer+%7C+Code+Futurist;✨+Designing+Luxury+Neon+Experiences;⚡+Merging+Creativity+%2B+Technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=600&color=00F0FF&center=true&vCenter=true&width=700&lines=UI/UX+Engineer+⚡;AI+Explorer+🤖;Building+Luxury+Neon+Web+Experiences+✨" />
 </p>
 
 ---
 
 ## 🧬 About Me  
 
-<p align="center">
-  <img src="https://i.ibb.co/8KwVf7M/gold-divider.gif" width="70%" />
-</p>
-
-- 🌌 **Role**: Cybernetic UI/UX Engineer  
-- 🔮 **Passion**: Neon Aesthetics • AI-Driven Experiences • Premium Interfaces  
-- 🎧 **Hobbies**: Synthwave • Cyberpunk Art • Code Under Neon Lights  
+💡 I’m a **Futuristic UI/UX Engineer** passionate about **designing immersive digital experiences**.  
+⚡ I blend **cyberpunk aesthetics** with **clean professional code**.  
+🎶 Outside coding, I dive into **synthwave, neon art, and AI experiments**.  
 
 ---
 
-## 🚀 Tech Arsenal  
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,python,nodejs,figma&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://i.ibb.co/8KwVf7M/gold-divider.gif" width="70%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,python,nodejs,figma&perline=9" />
 </p>
 
 ---
 
-## ✨ Luxury Projects Showcase  
+## 🚀 Highlighted Projects  
 
 <p align="center">
-  <img src="https://i.ibb.co/ccQ5sVc/luxury-neon.gif" width="500" />
-</p>
-
-| 🚀 Project      | 🔧 Description | ⚡ Tech Stack |
-|-----------------|----------------|--------------|
-| **NeonDash**   | A futuristic glowing dashboard with AI widgets | React • Tailwind • OpenAI |
-| **Cyberfolio** | Luxury cyberpunk portfolio generator | Next.js • Framer Motion |
-| **BotForge**   | Launch AI agents instantly | Python • LangChain • FastAPI |
-
----
-
-## 🎶 Luxury Now Playing  
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=FFD700&bar_color_cover=true" width="400" />
+  <a href="https://github.com/yourusername/NeonDash">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=NeonDash&theme=radical&border_radius=12&hide_border=true" />
+  </a>
+  <a href="https://github.com/yourusername/Cyberfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Cyberfolio&theme=radical&border_radius=12&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 📈 GitHub Stats  
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-00ffee?style=for-the-badge&logo=twitter&logoColor=black" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=black" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true&border_radius=15" width="48%" />
 </p>
 
 ---
 
-## 🌀 Contribution Snake  
+## 🎧 Now Playing  
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=00F0FF&bar_color_cover=true" width="420" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Portfolio-FFB800?style=for-the-badge&logo=firefox&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -78,5 +83,5 @@
 
 <!-- 🌊 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:00ffee&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8e2de2&height=120&section=footer" />
 </p>
