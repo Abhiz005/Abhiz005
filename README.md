@@ -1,54 +1,88 @@
+<!-- Futuristic, Animated GitHub Profile README -->
+
+<!-- Header with Animated Waves -->
 <p align="center">
-  <!-- Animated wave-style header -->
-  ![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=header&text=Greetings+from+the+Future&fontSize=40)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffee,100:00ccff&height=150&section=header&text=Welcome+to+My+Cyber+Realm&fontSize=35&fontColor=000000" />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <!-- Typing SVG intro -->
-  ![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00FFEF&background=00000000&lines=I+am+YourName;+Building+Tomorrow;+Enter+the+Cyber+Realm)
-</p>
-
----
-
-###  About Me
-- **Role**: Futuristic UI/UX Engineer  
-- **Passion**: Sci‑fi Aesthetics, Animated Experiences, AI‑powered Web  
-- **Hobbies**: Synthwave music, neon designs, coding from space
-
----
-
-##  My Arsenal
-<p align="center">
-  <!-- Examples, swap icons as needed -->
-  ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
-  ![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00ffee&center=true&vCenter=true&multiline=true&width=600&height=80&lines=I'm+YourName.;UI/UX+Engineer+%7C+AI+Explorer+%7C+Code+Futurist;Crafting+immersive+web+experiences." alt="Typing SVG" />
 </p>
 
 ---
 
-##  GitHub Analytics
+## 🧬 About Me
+
+- 👨‍🚀 **Role**: Futuristic UI/UX Engineer  
+- ✨ **Passion**: Sci-fi Aesthetics, Animated Experiences, AI-powered Web  
+- 🎧 **Hobbies**: Synthwave music, Neon designs, Coding from space  
+
+---
+
+## 🚀 Tech Stack
+
 <p align="center">
-  <!-- Stylish analytics indicators -->
-  ![GitHub Status](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=synthwave&hide_border=true)
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=synthwave&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=synthwave&hide_border=true)
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,nodejs,figma" />
 </p>
 
 ---
 
-##  Latest Activity
-<!-- Use 3D contribution graph for immersive effect -->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+## 📊 GitHub Analytics
 
----
-
-##  Currently Listening
-![Now Playing](https://spotify-now-playing.vercel.app/api/spotify?theme=night)
-
----
-
-##  Thanks for Stopping By  
 <p align="center">
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Stay+Cosmic+and+Keep+Coding!&fontSize=30)
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="45%" />
+</p>
+
+---
+
+## 🧠 Projects
+
+| 💡 Project        | 🔧 Description                                       | 🚀 Tech Stack                   |
+|------------------|------------------------------------------------------|--------------------------------|
+| **NeonDash**     | A glowing dashboard UI with AI widgets               | React, Tailwind, OpenAI        |
+| **Cyberfolio**   | Sci-fi themed portfolio generator                    | Next.js, Framer Motion         |
+| **BotForge**     | Launch AI agents in one click                        | Python, LangChain, FastAPI     |
+
+---
+
+## 🎵 Now Playing
+
+<p align="center">
+  <img src="https://spotify-now-playing-beta.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Portfolio-00ffee?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 🌀 Contribution Graph (3D Style)
+
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffee,100:00ccff&height=120&section=footer"/>
 </p>
