@@ -1,24 +1,54 @@
-<!-- Futuristic GitHub Profile README -->
+<p align="center">
+  <!-- Animated wave-style header -->
+  ![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=header&text=Greetings+from+the+Future&fontSize=40)
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFEF&width=435&lines=Hello+there!+I'm+%F0%9F%91%BD+YourName;Futuristic+Coder+%F0%9F%9A%80;Open+Source+Lover+%F0%9F%92%9A;Welcome+to+my+Universe+%E2%9C%A8" alt="Typing SVG" />
+  <!-- Typing SVG intro -->
+  ![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00FFEF&background=00000000&lines=I+am+YourName;+Building+Tomorrow;+Enter+the+Cyber+Realm)
 </p>
 
 ---
 
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/674621/151683356-bdbdd229-30f4-4e6b-991d-d7d8a1d6dcd3.gif" width="30"/>
-  <span style="color:#00ffee"> Futuristic Dev Portfolio </span>
-  <img src="https://user-images.githubusercontent.com/674621/151683356-bdbdd229-30f4-4e6b-991d-d7d8a1d6dcd3.gif" width="30"/>
-</h1>
+###  About Me
+- **Role**: Futuristic UI/UX Engineer  
+- **Passion**: Sci‑fi Aesthetics, Animated Experiences, AI‑powered Web  
+- **Hobbies**: Synthwave music, neon designs, coding from space
 
 ---
 
-### 🧬 About Me
+##  My Arsenal
+<p align="center">
+  <!-- Examples, swap icons as needed -->
+  ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
+  ![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
+</p>
 
-```yaml
-Name: YourName
-Code: Futuristic UI/UX, Web, AI
-Focus: 🚀 Building Next-gen Web Apps
-Hobbies: 🎧 Synthwave • 🕹 Retro Games • 🌌 Sci-fi
-Location: 🌍 The Cyberverse
+---
+
+##  GitHub Analytics
+<p align="center">
+  <!-- Stylish analytics indicators -->
+  ![GitHub Status](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=synthwave&hide_border=true)
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=synthwave&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=synthwave&hide_border=true)
+</p>
+
+---
+
+##  Latest Activity
+<!-- Use 3D contribution graph for immersive effect -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+##  Currently Listening
+![Now Playing](https://spotify-now-playing.vercel.app/api/spotify?theme=night)
+
+---
+
+##  Thanks for Stopping By  
+<p align="center">
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Stay+Cosmic+and+Keep+Coding!&fontSize=30)
+</p>
